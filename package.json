@@ -1,0 +1,18 @@
+{
+  "name": "morning-ch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "./node_modules/.bin/tape ./test/*"
+  },
+  "author": "katkelemen",
+  "license": "ISC",
+  "devDependencies": {
+    "shot": "^1.6.1",
+    "tape": "^4.2.0"
+  }
+}
